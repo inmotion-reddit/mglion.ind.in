@@ -1,5 +1,10 @@
 User-agent: *
-Disallow: 
+Disallow: /responsible-gaming
+Disallow: /withdrawal.html
+Disallow: /terms-and-conditions
+Disallow: /assets_files/saved_resource.html
+Disallow: /about-us
+Disallow: /mail.php
 
 User-agent:Google-Extended
 Disallow:/
@@ -27,3 +32,6 @@ Disallow:/
 
 User-agent:meta-externalagent
 Disallow:/
+
+Sitemap: https://mglion.ind.in/sitemap.xml
+Sitemap: https://mglion.ind.in/images_sitemap.xml
